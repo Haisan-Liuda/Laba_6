@@ -1,4 +1,4 @@
-﻿namespace Laba_8
+﻿namespace Laba_8 { 
 
     class MathOperations
     {
